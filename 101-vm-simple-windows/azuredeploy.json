@@ -91,7 +91,7 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "simple-vm",
+      "defaultValue": "my vm template rahul-2021",
       "metadata": {
         "description": "Name of the virtual machine."
       }
